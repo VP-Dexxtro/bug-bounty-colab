@@ -22,7 +22,7 @@
 
 [![Bug Hunting Colab][product-screenshot]](https://github.com/)
 
-Used Google Tools in a wiser way! I made a Jupyter Notebook for google collab that is gonna provide you a VPS(Virtual Private Server) with 24 GB RAM, 60 GB Storage in just 5 min deploy and get a Linux Instance. 
+Used Google Tools in a wiser way! I made a Jupyter Notebook for google collab that is gonna provide you a VPS(Virtual Private Server) with 24 GB RAM, 60 GB Storage in just 5 min deploy and get a Linux Instance for 12 hour. 
 
 
 <!-- GETTING STARTED -->
