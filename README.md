@@ -44,7 +44,7 @@ Just Click On `Open In Colab Button` And Run The Bug Hunting Colab Cell.<br><br>
 <!-- CONTACT -->
 ## Contact
 
-Akash Chhabra - [@](https://twitter.com/) - vsphacker@gmail.com
+VP-Dextro - [@](https://twitter.com/) - vsphacker@gmail.com
 
 Project Link: []()
 
