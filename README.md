@@ -39,7 +39,7 @@ using Chrome and ssh
 ## Usage
 
 Just Click On `Open In Colab Button` And Run The Bug Hunting Colab Cell.<br><br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/](https://colab.research.google.com/drive/1GOBLRYppNO8YPjaMLvoqX9Pz2zmd1uBv)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GOBLRYppNO8YPjaMLvoqX9Pz2zmd1uBv)
 
 <!-- CONTACT -->
 ## Contact
