@@ -14,7 +14,7 @@
   </p>
 </p>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GOBLRYppNO8YPjaMLvoqX9Pz2zmd1uBv)
 
 
 <!-- ABOUT THE PROJECT -->
